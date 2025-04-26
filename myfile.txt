@@ -1,2 +1,6 @@
 "Hello, Git! how are u?" 
 simple changes form github site
+
+
+
+CHAnges from offline....
